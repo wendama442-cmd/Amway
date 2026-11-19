@@ -1,0 +1,4 @@
+interface:
+  display_name: "安利中国业务洞察 · 八项分析能力"
+  short_description: "完整阅读访谈，调用八项分析能力与五类知识，形成可追溯工作流、洞察评估和四板块离线报告"
+  default_prompt: "使用 $amway-china-insight 分析我提供的全部访谈，保存信息池、候选洞察与评分登记册，生成可追溯的 HTML 业务报告。"

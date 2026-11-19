@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "sourceFile": "context/城市群-片区-营运区.xlsx",
+  "sourceHash": "e21b1bd02af20bd9c774eda00b6b2c57bb5007ac59518c480b13f94bca7b7a06",
+  "sheet": "Sheet1",
+  "cityGroups": [
+    {
+      "name": "苏州城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "江苏/四川片区",
+      "areaOwner": "Shirley Chen",
+      "group": "",
+      "groupOwner": "",
+      "row": 2
+    },
+    {
+      "name": "南通城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "江苏/四川片区",
+      "areaOwner": "Shirley Chen",
+      "group": "",
+      "groupOwner": "",
+      "row": 3
+    },
+    {
+      "name": "南京城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "江苏/四川片区",
+      "areaOwner": "Shirley Chen",
+      "group": "",
+      "groupOwner": "",
+      "row": 4
+    },
+    {
+      "name": "成都城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "江苏/四川片区",
+      "areaOwner": "Shirley Chen",
+      "group": "",
+      "groupOwner": "",
+      "row": 5
+    },
+    {
+      "name": "重庆城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "重庆/昆明/贵阳城市群",
+      "groupOwner": "Benny Gao",
+      "row": 6
+    },
+    {
+      "name": "昆明城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "重庆/昆明/贵阳城市群",
+      "groupOwner": "Benny Gao",
+      "row": 7
+    },
+    {
+      "name": "贵阳城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "重庆/昆明/贵阳城市群",
+      "groupOwner": "Benny Gao",
+      "row": 8
+    },
+    {
+      "name": "沈阳城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "沈阳/大连/长春/哈尔滨/天津城市群",
+      "groupOwner": "Murphy Mi",
+      "row": 9
+    },
+    {
+      "name": "大连城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "沈阳/大连/长春/哈尔滨/天津城市群",
+      "groupOwner": "Murphy Mi",
+      "row": 10
+    },
+    {
+      "name": "长春城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "沈阳/大连/长春/哈尔滨/天津城市群",
+      "groupOwner": "Murphy Mi",
+      "row": 11
+    },
+    {
+      "name": "天津城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "沈阳/大连/长春/哈尔滨/天津城市群",
+      "groupOwner": "Murphy Mi",
+      "row": 12
+    },
+    {
+      "name": "哈尔滨城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "沈阳/大连/长春/哈尔滨/天津城市群",
+      "groupOwner": "Murphy Mi",
+      "row": 13
+    },
+    {
+      "name": "福州城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "福州/厦门/泉州城市群",
+      "groupOwner": "Tyler Xu",
+      "row": 14
+    },
+    {
+      "name": "厦门城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "福州/厦门/泉州城市群",
+      "groupOwner": "Tyler Xu",
+      "row": 15
+    },
+    {
+      "name": "泉州城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "福州/厦门/泉州城市群",
+      "groupOwner": "Tyler Xu",
+      "row": 16
+    },
+    {
+      "name": "北京城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "北京/石家庄/呼和浩特城市群",
+      "groupOwner": "Angle Gou",
+      "row": 17
+    },
+    {
+      "name": "石家庄城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "北京/石家庄/呼和浩特城市群",
+      "groupOwner": "Angle Gou",
+      "row": 18
+    },
+    {
+      "name": "呼和浩特城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "北京/石家庄/呼和浩特城市群",
+      "groupOwner": "Angle Gou",
+      "row": 19
+    },
+    {
+      "name": "郑州城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "",
+      "groupOwner": "",
+      "row": 20
+    },
+    {
+      "name": "洛阳城市群",
+      "operatingRegion": "北京营运区",
+      "operatingOwner": "Jeff Nie",
+      "area": "",
+      "areaOwner": "",
+      "group": "",
+      "groupOwner": "",
+      "row": 21
+    },
+    {
+      "name": "广州城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "广东广西湖南片区",
+      "areaOwner": "Hans Zhang",
+      "group": "",
+      "groupOwner": "",
+      "row": 22
+    },
+    {
+      "name": "佛山城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "广东广西湖南片区",
+      "areaOwner": "Hans Zhang",
+      "group": "",
+      "groupOwner": "",
+      "row": 23
+    },
+    {
+      "name": "深圳城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "广东广西湖南片区",
+      "areaOwner": "Hans Zhang",
+      "group": "",
+      "groupOwner": "",
+      "row": 24
+    },
+    {
+      "name": "南宁城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "广东广西湖南片区",
+      "areaOwner": "Hans Zhang",
+      "group": "",
+      "groupOwner": "",
+      "row": 25
+    },
+    {
+      "name": "长沙城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "广东广西湖南片区",
+      "areaOwner": "Hans Zhang",
+      "group": "",
+      "groupOwner": "",
+      "row": 26
+    },
+    {
+      "name": "杭州城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "浙江/湖北片区",
+      "areaOwner": "Ivy Gao",
+      "group": "",
+      "groupOwner": "",
+      "row": 27
+    },
+    {
+      "name": "宁波城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "浙江/湖北片区",
+      "areaOwner": "Ivy Gao",
+      "group": "",
+      "groupOwner": "",
+      "row": 28
+    },
+    {
+      "name": "温州城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "浙江/湖北片区",
+      "areaOwner": "Ivy Gao",
+      "group": "",
+      "groupOwner": "",
+      "row": 29
+    },
+    {
+      "name": "武汉城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "浙江/湖北片区",
+      "areaOwner": "Ivy Gao",
+      "group": "",
+      "groupOwner": "",
+      "row": 30
+    },
+    {
+      "name": "乌鲁木齐城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "西北片区",
+      "areaOwner": "Steven Wang",
+      "group": "乌鲁木齐/海口城市群",
+      "groupOwner": "Carol Che",
+      "row": 31
+    },
+    {
+      "name": "海口城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "西北片区",
+      "areaOwner": "Steven Wang",
+      "group": "乌鲁木齐/海口城市群",
+      "groupOwner": "Carol Che",
+      "row": 32
+    },
+    {
+      "name": "西安城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "西北片区",
+      "areaOwner": "Steven Wang",
+      "group": "",
+      "groupOwner": "",
+      "row": 33
+    },
+    {
+      "name": "兰州城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "西北片区",
+      "areaOwner": "Steven Wang",
+      "group": "",
+      "groupOwner": "",
+      "row": 34
+    },
+    {
+      "name": "上海城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "上海/南昌/合肥城市群",
+      "groupOwner": "Michael Jiang",
+      "row": 35
+    },
+    {
+      "name": "南昌城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "上海/南昌/合肥城市群",
+      "groupOwner": "Michael Jiang",
+      "row": 36
+    },
+    {
+      "name": "合肥城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "上海/南昌/合肥城市群",
+      "groupOwner": "Michael Jiang",
+      "row": 37
+    },
+    {
+      "name": "济南城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "济南/青岛/徐州/太原城市群",
+      "groupOwner": "Bill Fu",
+      "row": 38
+    },
+    {
+      "name": "青岛城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "济南/青岛/徐州/太原城市群",
+      "groupOwner": "Bill Fu",
+      "row": 39
+    },
+    {
+      "name": "徐州城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "济南/青岛/徐州/太原城市群",
+      "groupOwner": "Bill Fu",
+      "row": 40
+    },
+    {
+      "name": "太原城市群",
+      "operatingRegion": "上海营运区",
+      "operatingOwner": "Vincent Hwang",
+      "area": "",
+      "areaOwner": "",
+      "group": "济南/青岛/徐州/太原城市群",
+      "groupOwner": "Bill Fu",
+      "row": 41
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "profiles": [{
+    "id": "confirmed-six-interviews",
+    "scope": "仅用于已确认的六份访谈材料；由任务显式选择。其他批次须重新核对身份与地域，不能仅凭同名套用。",
+    "mappings": [
+      {"aliases":["Murphy","Murphy Mi"],"geographyName":"沈阳/大连/长春/哈尔滨/天津城市群","operationName":"北京营运区"},
+      {"aliases":["Yanchi"],"geographyName":"江苏/四川片区","operationName":"北京营运区"},
+      {"aliases":["Hans","Hans Zhang"],"geographyName":"广东广西湖南片区","operationName":"上海营运区"},
+      {"aliases":["Ivy","Ivy Gao"],"geographyName":"浙江/湖北片区","operationName":"上海营运区"},
+      {"aliases":["Michael","Michael Jiang"],"geographyName":"上海/南昌/合肥城市群","operationName":"上海营运区"},
+      {"aliases":["Bill","Bill Fu"],"geographyName":"济南/青岛/徐州/太原城市群","operationName":"上海营运区"}
+    ]
+  }]
+}
